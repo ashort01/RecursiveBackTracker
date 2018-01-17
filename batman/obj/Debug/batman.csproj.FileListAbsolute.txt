@@ -1,0 +1,15 @@
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\bin\Debug\batman.exe.config
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\bin\Debug\batman.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\bin\Debug\batman.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\obj\Debug\batman.exe
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\obj\Debug\batman.pdb
+C:\Users\Austin\Documents\Visual Studio 2015\Projects\Batman\batman\obj\Debug\batman.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Source\Local\Batman\batman\bin\Debug\batman.exe.config
+C:\Users\Austin\Source\Local\Batman\batman\obj\Debug\batman.exe
+C:\Users\Austin\Source\Local\Batman\batman\obj\Debug\batman.pdb
+C:\Users\Austin\Source\Local\Batman\batman\bin\Debug\batman.exe
+C:\Users\Austin\Source\Local\Batman\batman\bin\Debug\batman.pdb
+C:\Users\Austin\Source\Local\Batman\batman\obj\Debug\batman.csprojResolveAssemblyReference.cache
+C:\Users\Austin\Source\Repos\RecursiveBackTracker\Batman\batman\bin\Debug\batman.exe.config
+C:\Users\Austin\Source\Repos\RecursiveBackTracker\Batman\batman\obj\Debug\batman.exe
+C:\Users\Austin\Source\Repos\RecursiveBackTracker\Batman\batman\obj\Debug\batman.pdb
